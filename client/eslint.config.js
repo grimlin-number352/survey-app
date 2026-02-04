@@ -17,8 +17,8 @@ export default [
     // ignores: []
   },
 
-  ...pluginQuasar.configs.recommended(),
-  js.configs.recommended,
+  //...pluginQuasar.configs.recommended(),
+  //js.configs.recommended,
 
   /**
    * https://eslint.vuejs.org
